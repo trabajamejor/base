@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'museo300';
+    src: url('../fonts/museo300-regular-webfont.eot?v=4.3.0');
+    src: url('../fonts/museo300-regular-webfont.eot?#iefix&v=4.3.0') format('embedded-opentype'), url('../fonts/museo300-regular-webfont.woff?v=4.3.0') format('woff'), url('../fonts/museo300-regular-webfont.ttf?v=4.3.0') format('truetype'), url('../fonts/museo300-regular-webfont.svg?v=4.3.0#fontawesomeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'museo700';
+    src: url('../fonts/museo700_regular-webfont.eot?v=4.3.0');
+    src: url('../fonts/museo700_regular-webfont.eot?#iefix&v=4.3.0') format('embedded-opentype'), url('../fonts/museo700_regular-webfont.woff?v=4.3.0') format('woff'), url('../fonts/museo700_regular-webfont.ttf?v=4.3.0') format('truetype'), url('../fonts/museo700_regular-webfont.svg?v=4.3.0#fontawesomeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
